@@ -38,6 +38,4 @@ int main() {
 
     return 0; // Termina o programa
 }
-```
 
-Se precisar de mais alguma coisa, é só falar! 😊
