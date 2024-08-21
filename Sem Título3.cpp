@@ -14,9 +14,9 @@ int main() {
     return 0;
 }
 
-Claro! Aqui está o código com comentários simples:
 
-```c
+
+
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
 
 int main() {
